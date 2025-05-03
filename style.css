@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+  font-family: 'Zain', sans-serif;
+  background-color: white;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+}
+
+.logo {
+  font-family: 'Borel', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #555;
+}
+
+.titolo-articolo {
+  font-family: 'Borel', cursive;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
